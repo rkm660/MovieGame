@@ -1,2 +1,2 @@
 # MovieGame
-A implementation of the classic movie game
+An implementation of the classic movie game
